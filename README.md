@@ -9,6 +9,7 @@ Pada Menu Utama Program mencetak menu utama yang berisikan
 5. Tampilkan semua rasa: Menampilkan semua entitas (karyawan, kasir, pembeli, dan varian rasa) yang telah dimasukkan.
 6. Hapus variasi rasa: Menghapus sebuah varian rasa dengan memasukkan namanya.
 7. Exit: Keluar dari program.
+
 Lalu pada input pengguna program mengambil input pengguna untuk memilih salah satu dari opsi menu program 
 pada bagian proses pilihan pengguna program di minta menjalankan aksi sesuai dengan pilihan pengguna 
 Pilihan 1 hingga 4 menyuruh pengguna untuk memasukkan data yang sesuai untuk setiap entitas (karyawan, kasir, pembeli, atau varian rasa es krim) dan menyimpannya dalam peopleList.
